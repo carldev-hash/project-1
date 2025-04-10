@@ -377,6 +377,9 @@ footer {
     flex-direction: column;
     gap: 2rem;
   }
+    .copyright p {
+      font-size: 16px;
+    }
   }
 
 /******************
