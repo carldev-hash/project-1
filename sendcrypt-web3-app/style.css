@@ -129,7 +129,7 @@
     background: var(--primary-400);
     color: var(--neutral-600);
     font-weight: var(--fw-500);
-
+    cursor: pointer;
   }
 
 /****************
