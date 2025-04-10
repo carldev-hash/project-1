@@ -51,6 +51,7 @@
     color: var(--neutral-100);
     font-family: var(--ff);
     margin: 0 auto;
+    overflow-x: hidden;
   }
   
   /* 6. Improve media defaults */
