@@ -243,6 +243,7 @@
   font-size: var(--fs-400);
   font-weight: var(--fw-600);
   border-radius: 12px;
+  cursor: pointer;
 }
 
 /****************
