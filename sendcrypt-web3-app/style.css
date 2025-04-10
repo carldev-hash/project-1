@@ -249,6 +249,10 @@
 /****************
  * TRANSACTIONS *
  ****************/
+.transac h2 {
+  font-size: var(--fs-700);
+}
+  
  
 .col {
   display: grid;
